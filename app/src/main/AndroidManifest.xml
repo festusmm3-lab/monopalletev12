@@ -6,6 +6,7 @@
             <action android:name="android.intent.action.MAIN" />
             <category android:name="android.intent.category.LAUNCHER" />
         </intent>
+    </queries>
 
     <application
         android:allowBackup="true"
@@ -28,6 +29,7 @@
             </intent-filter>
 
         </activity>
+
     </application>
 
 </manifest>
